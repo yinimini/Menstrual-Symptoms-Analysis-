@@ -3,7 +3,7 @@ Just a girly trying to find if the birth controls and hormones have been f**king
 
 Analysis so far:
 
-This plot tells me stuffs like if I'm bloated that I most likely will have breakouts and be ugly for a couple of days
+This plot tells me stuffs like if I'm bloated then I will most likely have breakouts and be ugly for a couple of days
 ![symptoms_correlation](plots/symptoms_correlation_heatmap.jpeg)
 
 
