@@ -1,7 +1,15 @@
 # Menstrual-Symptoms-Analysis-
 A raging tech girly trying to find if the birth controls and hormones have been f**king me up and how have they been f--king me up
 
-Analysis so far:
+Tools:
+
+Python, jupyter notebook. Maybe marimo later as well for ML models
+
+Library:
+
+pandas, seaborn, matplotplib, numpy etc. with all that data science shabam
+
+**Ongoing Analysis**:
 
 This plot tells me stuffs like if I'm bloated then I will most likely have breakouts and be ugly for a couple of days. The closer the number is to 1, the higher the correlation between the symptoms. Note that the correlation presented may not fully reflect reality and may alter depends on which pacakage (aka math) is used to calculate it. I will return to the math shortly. 
 
