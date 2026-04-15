@@ -1,11 +1,11 @@
 # Menstrual-Symptoms-Analysis-
 A raging tech girly trying to find if the birth controls and hormones have been f**king me up and how have they been f--king me up
 
-<u>Tools:</u>
+
 
 Python, jupyter notebook, git, github heheh. Maybe marimo later as well for ML models
 
-<u>Library:</u>
+
 
 pandas, seaborn, matplotplib, numpy etc. with all that data science shabam
 
