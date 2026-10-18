@@ -26,7 +26,7 @@ The plot under shows the period intensity for each day for all my periods. Disti
 
 **Period Symptoms Correlations**
 
-This plot tells me stuffs like if I'm nausous and I will be angry as well, or if I'm angrying then I will be panicing as well(??) Tbh, what is this hormonal hell here? 
+I chose top 12 most common symptoms, this plot tells me stuffs like if I'm nausous and I will be angry as well, or if I'm angrying then I will be panicing as well(??) Tbh, what is this hormonal hell here? 
 
 <img src="plots/symptom_correlations.png" alt="symptoms_correlations" width="600">
 
