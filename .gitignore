@@ -1,4 +1,4 @@
 .env
-venv
+.venv
 raw_data
 processed_data
