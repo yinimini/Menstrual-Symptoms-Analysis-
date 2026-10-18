@@ -7,7 +7,7 @@ I'm just trying to find whether the birth controls and menstrual hormones have b
 
 **Top 3 Most Appeared Symptoms from 2022-2026:**
 
-<img src="plots/top_3_symptoms.png" alt="top_3_symptoms" width="400">
+<img src="plots/top_3_symptoms_all_time.png" alt="top_3_symptoms" width="400">
 
 **Cycle and Period Length**
 
@@ -30,3 +30,6 @@ I chose top 12 most common symptoms, this plot tells me stuffs like if I'm nauso
 
 <img src="plots/symptom_correlations.png" alt="symptoms_correlations" width="600">
 
+**Top 3 Most Appeard Symptoms Per Cycle**
+Correlation map of three most commn symptoms per cylce across all cyels. Now you see I'm cramping (DrawingPain) almost all the time when I'm on period. 
+<img src="plots/top_3_symptoms_heatmap.png" alt="top_3_symptoms_heatmap" width="900">
