@@ -30,6 +30,6 @@ I chose top 12 most common symptoms, this plot tells me stuffs like if I'm nauso
 
 <img src="plots/symptom_correlations.png" alt="symptoms_correlations" width="600">
 
-**Top 3 Most Appeard Symptoms Per Cycle**
-Correlation map of three most commn symptoms per cylce across all cyels. Now you see I'm cramping (DrawingPain) almost all the time when I'm on period. 
+**Top 3 Most Frequent Symptoms per Cycle**
+Correlation Map of the Three Most Common Symptoms Across All Cycles. Red and 1 means this symptoms is one of the top 3 in this cycle. Now you see I'm cramping (DrawingPain) almost all the time when I'm on period. 
 <img src="plots/top_3_symptoms_heatmap.png" alt="top_3_symptoms_heatmap" width="900">
