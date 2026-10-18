@@ -1,3 +1,16 @@
+# How to run
+**run script**
+
+uv run python script.py
+
+**install new package**
+
+uv add seaborn
+
+**sync dependencies/install project on a new machine**
+
+uv sync
+
 # Menstrual Symptoms Analysis
 I'm just trying to find whether the birth controls and menstrual hormones have been f**king me up and how have they been f-king me up
 
