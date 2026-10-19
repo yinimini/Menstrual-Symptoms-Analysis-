@@ -3,9 +3,7 @@ name = "menstrual-symptoms-analysis"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-authors = [
-    { email = "chenyini426@gmail.com" }
-]
+
 requires-python = ">=3.12"
 dependencies = [
     "anyio==4.13.0",
