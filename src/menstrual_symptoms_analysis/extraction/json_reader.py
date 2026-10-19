@@ -3,7 +3,7 @@ import json
 from pathlib import Path
 from typing import Any
 
-def read_json() -> Any:
+def read_json() -> dict[str, Any]:
     """
     Load and return data from the user_data.json file.
 
@@ -11,7 +11,7 @@ def read_json() -> Any:
     so the function does not depend on the current working directory.
 
     Returns:
-        Any: The data parsed from the JSON file. 
+        dict[str, Any]: The data parsed from the JSON file.
 
     """
 
